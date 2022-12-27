@@ -5,6 +5,7 @@
     "icon": "./icon.svg"
   },
   "license": "MIT",
+  "version": "0.0.1",
   "name": "logseq-rtlblocks-plugin",
   "main": "dist/index.html",
   "scripts": {
