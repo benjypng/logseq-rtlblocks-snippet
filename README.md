@@ -2,7 +2,7 @@
 
 This `custom.js` script automatically renders RTL languages right-to-left. Works on mobile as well.
 
-<img src="screenshots/demo.jpeg" width="150">
+<img src="screenshots/demo.jpeg" width="500">
 
 # Instructions
 
@@ -13,4 +13,4 @@ This `custom.js` script automatically renders RTL languages right-to-left. Works
 
 # Code Snippet
 
-<img src="screenshots/snippet.png" width="150">
+<img src="screenshots/snippet.png" width="600">
