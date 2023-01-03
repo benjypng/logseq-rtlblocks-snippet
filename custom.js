@@ -5,6 +5,12 @@ const observer = new top.MutationObserver(() => {
       elem.setAttribute("dir", "auto");
     }
   }
+  const latexElems = top?.document.querySelectorAll(".katex-html");
+  if (latexElems && latexElems.length > 0) {
+    for (const elem of latexElems) {
+      elem.setAttribute("dir", "ltr");
+    }
+  }
 });
 
 observer.observe(top.document.getElementById("app-container"), {
